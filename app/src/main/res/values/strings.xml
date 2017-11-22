@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GREflash</string>
+    <string name="title_activity_flashcard_game">FlashcardGameActivity</string>
+</resources>
